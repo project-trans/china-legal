@@ -1,0 +1,53 @@
+{
+  "name": "legal-spec-next",
+  "private": false,
+  "version": "0.0.1",
+  "main": "nuxt.config.ts",
+  "license": "CC BY-NC-SA 4.0",
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "generate": "nuxi generate",
+    "preview": "nuxi preview",
+    "lint": "eslint .",
+    "prepublishOnly": "pnpm lint",
+    "release": "release-it",
+    "cleanup":"nuxi cleanup"
+  },
+  "files": [
+    "app/",
+    "components/",
+    "layouts/",
+    "app.vue",
+    "app.config.ts",
+    "nuxt.config.ts",
+    "nuxt.schema.ts",
+    "tailwind.config.ts"
+  ],
+  "dependencies": {
+    "@nuxt/content": "^2.12.1",
+    "@nuxtjs/color-mode": "^3.4.1",
+    "@nuxtjs/tailwindcss": "^6.12.0",
+    "@tailwindcss/typography": "^0.5.13",
+    "daisyui":"^4.12.2",
+    "nuxt-icon": "^0.6.10"
+    
+  },
+  "devDependencies": {
+    "@nuxt/eslint-config": "^0.3.13",
+    "@types/node": "^20.14.2",
+    "eslint": "^9.4.0",
+    "nuxt": "^3.11.2",
+    "release-it": "^17.3.0",
+    "typescript": "^5.4.5"
+  },
+  "release-it": {
+    "git": {
+      "commitMessage": "chore(release): release v${version}"
+    },
+    "github": {
+      "release": true,
+      "releaseName": "v${version}"
+    }
+  }
+}
