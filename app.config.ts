@@ -1,7 +1,7 @@
 export default defineAppConfig({
   socials: {
     twitter: '',
-    github: 'https://github.com/project-trans/china-legal/',
+    github: 'project-trans/china-legal/',
     mastodon: '',
   },
   nuxtIcon: {
