@@ -3,7 +3,7 @@ const { cover } = useAppConfig()
 </script>
 
 <template>
-  <div class="sm:pt-6 sm:pb-10">
+  <div class="sm:pt-6 sm:pb-10 pb-5">
     <Html lang="zh" />
     <!-- <Meta property="og:image" :content="cover"/> -->
     <Link rel="shortcut icon" href="/china-legal/favicon.ico"/>

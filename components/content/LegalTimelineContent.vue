@@ -16,8 +16,8 @@
         <div class="timeline-end mb-5">
             <time class="font-mono">{{ date }}</time> <span v-if="author !== ''" class="font-serif ml-4">{{ author }}</span>
             <div v-if="title !== '' || level !== ''">
-                <span v-if="titleLink === ''" class="text-lg font-black">{{ title }}</span>
-                <NuxtLink v-else class="text-lg font-black" :to="titleLink">{{ title }}</NuxtLink>
+                <span v-if="titleLink === ''" class="text-lg font-black mr-2">{{ title }}</span>
+                <NuxtLink v-else class="text-lg font-black mr-2" :to="titleLink">{{ title }}</NuxtLink>
                 <span v-if="level != ''" class="badge">{{ level }}</span>
             </div>
             <div>
