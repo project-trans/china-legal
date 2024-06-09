@@ -14,3 +14,6 @@ const { page } = useContent()
 // import {transformContent} from "@nuxt/content/transformers/index"
 // const fkcontent=await transformContent("1.md","OK",{transformers:[markdown]})
 </script>
+<style  lang="postcss">
+@import "~/assets/css/tailwindcss-typography-prose-fix.css"
+</style>

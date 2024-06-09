@@ -9,3 +9,6 @@
     </main>
   </div>
 </template>
+<style  lang="postcss">
+@import "~/assets/css/tailwindcss-typography-prose-fix.css"
+</style>
