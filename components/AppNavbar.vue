@@ -6,7 +6,7 @@ const appConfig = useAppConfig()
 <template>
   <div class="flex justify-between max-w-4xl px-4 py-4 mx-auto sm:px-8">
     <!-- Navigation -->
-    <div class="text-gray-700 dark:text-gray-200">
+    <nav class="text-gray-700 dark:text-gray-200">
       <NuxtLink
         v-for="link of navigation"
         :key="link._path"
@@ -16,7 +16,7 @@ const appConfig = useAppConfig()
       >
         {{ link.title }}
       </NuxtLink>
-    </div>
+    </nav>
     <!-- Social icons & Color Mode -->
     <div class="space-x-3 transition text-gray-500">
       <a v-if="appConfig.socials?.twitter" :href="`https://twitter.com/${appConfig.socials?.twitter}`" title="Twitter" class="dark:text-gray-100 hover:text-gray-700 dark:hover:text-gray-300"><Icon name="fa-brands:twitter" class="w-5 h-5" /></a>

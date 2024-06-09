@@ -1,7 +1,7 @@
 <template>
     <li>
         <hr />
-        <div class="timeline-middle">
+        <div class="timeline-middle" aria-hidden="true">
             <svg v-if="dotType === 'fill_circle'" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"
                 fill="currentColor" class="h-5 w-5">
                 <circle cx="10" cy="10" r="8" />
@@ -28,8 +28,6 @@
     </li>
 </template>
 <script setup lang="ts">
-import { computed, useSlots } from "vue";
-
 const props = withDefaults(defineProps<{
     date: string;
     title?: string;
