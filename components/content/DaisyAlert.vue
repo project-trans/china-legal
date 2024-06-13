@@ -23,4 +23,7 @@ const isContentEmpty = computed(() => slots.default == null)
 .prose ::marker {
   @apply text-black dark:text-white
 }
+.prose a {
+  @apply border-black dark:border-white
+}
 </style>
