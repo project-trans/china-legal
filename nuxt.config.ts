@@ -2,18 +2,21 @@
 import NuxtContentTransformersModule from "./modules/nuxt-content-transformers/module";
 export default defineNuxtConfig({
   devtools: { enabled: false },
+
   modules: [
     NuxtContentTransformersModule,
     "@nuxt/content",
     "@nuxtjs/tailwindcss",
     "@nuxtjs/color-mode",
-    "nuxt-icon",
+    "@nuxt/icon",
   ],
+
   // https://color-mode.nuxtjs.org
   colorMode: {
     preference: "system", // default theme
     dataValue: "theme", // activate data-theme in <html> tag
   },
+
   // https://content.nuxtjs.org
   content: {
     defaultLocale: "zh",
@@ -39,6 +42,7 @@ export default defineNuxtConfig({
       },
     },
   },
+
   // nitro: {
   //   prerender: {
   //     crawlLinks: true,
@@ -47,4 +51,6 @@ export default defineNuxtConfig({
   app: {
     baseURL: "/china-legal/", //如果需要部署到二级目录
   },
+
+  compatibilityDate: "2024-09-30",
 });
