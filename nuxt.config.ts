@@ -19,7 +19,7 @@ export default defineNuxtConfig({
 
   // https://content.nuxtjs.org
   content: {
-    defaultLocale: "zh",
+    defaultLocale: "zh-Hans-CN",
     documentDriven: true,
     highlight: {
       // langs: [
