@@ -4,7 +4,7 @@ import { normalizeUri } from 'micromark-util-sanitize-uri'
 import { type Properties, type Element } from 'hast'
 import { type Link } from 'mdast'
 import { isRelative } from 'ufo'
-import type { MarkdownOptions, MarkdownPlugin, MarkdownParsedContent } from '@nuxt/content/types'
+import type { MarkdownOptions, MarkdownPlugin, MarkdownParsedContent } from '@nuxt/content'
 import { defineTransformer } from '@nuxt/content/transformers'
 import { generatePath } from '@nuxt/content/transformers/path-meta'
 
@@ -44,6 +44,12 @@ export default defineTransformer({
       },
       toc: config.toc
     })
+
+    if (_id && !parsed.layout) {
+      if (_id.startsWith('content:spec:')){
+        parsed.data.layout = 'spec'
+      }
+    }
 
     return <MarkdownParsedContent>{
       ...parsed.data,

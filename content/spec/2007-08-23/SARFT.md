@@ -1,10 +1,10 @@
-# 广电总局发通知禁止播出群众参与的整容变性节目
-
-来源：<http://www.gov.cn/gzdt/2007-08/24/content_726068.htm>
-
-存档：<https://archive.md/20230217141655/http://www.gov.cn/gzdt/2007-08/24/content_726068.htm>
-
 ---
+external: 
+   source: http://www.gov.cn/gzdt/2007-08/24/content_726068.htm
+   archive: https://archive.md/20230217141655/http://www.gov.cn/gzdt/2007-08/24/content_726068.htm
+---
+
+# 广电总局发通知禁止播出群众参与的整容变性节目
 
 2007 年 8 月 23 日，广电总局向各省、自治区、直辖市广播影视局，新疆生产建设兵团广播电视局、中央三台、中国教育电视台下发通知，禁止策划、制作和播出群众参与的各类整容变性节目。
 

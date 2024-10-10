@@ -1,12 +1,14 @@
+---
+external: 
+   source: 
+    - http://www.gov.cn/flfg/2012-10/26/content_2253975.htm
+    - http://www.npc.gov.cn/zgrdw/huiyi/lfzt/jswsf/2013-02/25/content_1872405.htm
+   archive: 
+    - https://archive.md/20211106060302/http://www.gov.cn/flfg/2012-10/26/content_2253975.htm
+    - https://archive.md/20230217182413/http://www.npc.gov.cn/zgrdw/huiyi/lfzt/jswsf/2013-02/25/content_1872405.htm
+---
+
 # 中华人民共和国精神卫生法
-
-来源：<http://www.gov.cn/flfg/2012-10/26/content_2253975.htm>
-
-存档：<https://archive.md/20211106060302/http://www.gov.cn/flfg/2012-10/26/content_2253975.htm>
-
-来源：<http://www.npc.gov.cn/zgrdw/huiyi/lfzt/jswsf/2013-02/25/content_1872405.htm>
-
-存档：<https://archive.md/20230217182413/http://www.npc.gov.cn/zgrdw/huiyi/lfzt/jswsf/2013-02/25/content_1872405.htm>
 
 ## 第一章 总则
 

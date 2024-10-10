@@ -1,10 +1,10 @@
-# 性别重置技术管理规范（2017 年版）
-
-来源：<http://www.nhc.gov.cn/yzygj/s3585/201702/e1b8e0c9b7c841d49c1895ecd475d957.shtml>
-
-存档：<https://archive.md/20210603165527/http://www.nhc.gov.cn/yzygj/s3585/201702/e1b8e0c9b7c841d49c1895ecd475d957.shtml>
-
 ---
+external:
+   source: http://www.nhc.gov.cn/yzygj/s3585/201702/e1b8e0c9b7c841d49c1895ecd475d957.shtml
+   archive: https://archive.md/20210603165527/http://www.nhc.gov.cn/yzygj/s3585/201702/e1b8e0c9b7c841d49c1895ecd475d957.shtml
+---
+
+# 性别重置技术管理规范（2017 年版）
 
 为规范性别重置技术临床应用，保证医疗质量和医疗安全，制定本规范。
 本规范是医疗机构及其医务人员开展性别重置技术的最低要求。

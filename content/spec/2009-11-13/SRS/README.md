@@ -1,12 +1,13 @@
-# 变性手术技术管理规范（试行）
-
-来源：<http://www.nhc.gov.cn/wjw/gfxwj/201304/5a310ec69d264d4a890949d0b2fbcaf7.shtml>
-
-存档：<https://archive.md/20230217175203/http://www.nhc.gov.cn/wjw/gfxwj/201304/5a310ec69d264d4a890949d0b2fbcaf7.shtml>
-
-存档：<https://web.archive.org/web/20230217175420/http://www.nhc.gov.cn/cmsresources/mohyzs/cmsrsdocument/doc6592.doc>
-
 ---
+external: 
+   wikisource: https://zh.wikisource.org/wiki/公安部三局关于公民手术变性后变更户口登记性别项目有关问题的批复
+   source: http://www.nhc.gov.cn/wjw/gfxwj/201304/5a310ec69d264d4a890949d0b2fbcaf7.shtml
+   archive: 
+      - https://archive.md/20230217175203/http://www.nhc.gov.cn/wjw/gfxwj/201304/5a310ec69d264d4a890949d0b2fbcaf7.shtml
+      - https://web.archive.org/web/20230217175420/http://www.nhc.gov.cn/cmsresources/mohyzs/cmsrsdocument/doc6592.doc
+---
+
+# 变性手术技术管理规范（试行）
 
 为规范变性手术技术审核和临床应用，保证医疗质量和医疗安全，制定本规范。
 本规范为技术审核机构对医疗机构申请临床应用变性手术技术进行技术审核的依据，是医疗机构及其医师开展变性手术的最低要求。

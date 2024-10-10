@@ -1,10 +1,10 @@
-# 丈夫私自做了变性手术，婚姻关系合法吗？
-
-来源：<http://www.hncourt.gov.cn/public/detail.php?id=48902>
-
-存档：<https://web.archive.org/web/20221205064337/http://www.hncourt.gov.cn/public/detail.php?id=48902>
-
 ---
+external: 
+   source: http://www.hncourt.gov.cn/public/detail.php?id=48902
+   archive: https://web.archive.org/web/20221205064337/http://www.hncourt.gov.cn/public/detail.php?id=48902
+---
+
+# 丈夫私自做了变性手术，婚姻关系合法吗？
 
 编辑同志：
 

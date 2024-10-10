@@ -1,10 +1,10 @@
-# 关于印发《重性精神疾病管理治疗工作规范（2012 年版）》的通知
-
-来源：<http://www.nhc.gov.cn/jkj/s5888/201204/16ebc49bfe504f979eb31070fc3ac5bf.shtml>
-
-存档：<https://archive.md/20230218031706/http://www.nhc.gov.cn/jkj/s5888/201204/16ebc49bfe504f979eb31070fc3ac5bf.shtml>
-
 ---
+external: 
+   deleted_source: http://www.nhc.gov.cn/jkj/s5888/201204/16ebc49bfe504f979eb31070fc3ac5bf.shtml
+   archive: https://archive.md/20230218031706/http://www.nhc.gov.cn/jkj/s5888/201204/16ebc49bfe504f979eb31070fc3ac5bf.shtml
+---
+
+# 关于印发《重性精神疾病管理治疗工作规范（2012 年版）》的通知
 
 卫疾控发〔2012〕20 号
 

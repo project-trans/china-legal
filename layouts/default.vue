@@ -4,8 +4,8 @@
       <slot />
     </main>
   </div>
-  <WorkLicenseInfo v-if="page.external?.copyright===true" class="mt-10 text-center w-full"/>
-  <div class="text-center w-full"  :class="page.external?.copyright===true ? '' : 'mt-10'">由 <img src="/img/project-trans-inline.svg" class="inline h-4" alt="PROJECT TRANS"> 提供。</div>
+  <WorkLicenseInfo v-if="page?.external?.copyright===true" class="mt-10 text-center w-full"/>
+  <div class="text-center w-full"  :class="page?.external?.copyright===true ? '' : 'mt-10'">由 <img src="/img/project-trans-inline.svg" class="inline h-4" alt="PROJECT TRANS"> 提供。</div>
 </template>
 <script lang="ts" setup>
 const { page } = useContent()

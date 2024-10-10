@@ -1,8 +1,10 @@
+---
+external:
+   source: http://www.nhc.gov.cn/jkj/s5888/202111/6047ebb879e04c9fb5d5d2df78a55dff.shtml
+   archive: https://archive.md/20230218031053/http://www.nhc.gov.cn/jkj/s5888/202111/6047ebb879e04c9fb5d5d2df78a55dff.shtml
+---
+
 # 关于印发《严重精神障碍管理治疗工作规范（2018 年版）》的通知
-
-来源：<http://www.nhc.gov.cn/jkj/s5888/202111/6047ebb879e04c9fb5d5d2df78a55dff.shtml>
-
-存档：<https://archive.md/20230218031053/http://www.nhc.gov.cn/jkj/s5888/202111/6047ebb879e04c9fb5d5d2df78a55dff.shtml>
 
 ---
 

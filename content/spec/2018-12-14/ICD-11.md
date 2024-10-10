@@ -1,10 +1,10 @@
-# 关于印发国际疾病分类第十一次修订本（ICD-11）中文版的通知
-
-来源：<http://wjw.xizang.gov.cn/xwzx/gwydt/201908/t20190808_92683.html>
-
-存档：<https://web.archive.org/web/20200215145950/http://wjw.xizang.gov.cn/xwzx/gwydt/201908/t20190808_92683.html>
-
 ---
+external:
+   source: http://wjw.xizang.gov.cn/xwzx/gwydt/201908/t20190808_92683.html
+   archive: https://web.archive.org/web/20200215145950/http://wjw.xizang.gov.cn/xwzx/gwydt/201908/t20190808_92683.html
+---
+
+# 关于印发国际疾病分类第十一次修订本（ICD-11）中文版的通知
 
 各省、自治区、直辖市及新疆生产建设兵团卫生健康委（卫生计生委）：
 

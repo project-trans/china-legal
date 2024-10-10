@@ -1,10 +1,10 @@
-# 关于印发《重性精神疾病管理治疗工作规范》的通知
-
-来源：<http://www.nhc.gov.cn/jkj/s5888/200911/a5adc74527324f1c9e5cc7beba9c1392.shtml>
-
-存档：<https://archive.md/20230217115153/http://www.nhc.gov.cn/jkj/s5888/200911/a5adc74527324f1c9e5cc7beba9c1392.shtml>
-
 ---
+external: 
+   source: http://www.nhc.gov.cn/jkj/s5888/200911/a5adc74527324f1c9e5cc7beba9c1392.shtml
+   archive: https://archive.md/20230217115153/http://www.nhc.gov.cn/jkj/s5888/200911/a5adc74527324f1c9e5cc7beba9c1392.shtml
+---
+
+# 关于印发《重性精神疾病管理治疗工作规范》的通知
 
 卫疾控发〔2009〕104 号
 

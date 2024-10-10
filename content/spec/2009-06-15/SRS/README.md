@@ -1,12 +1,11 @@
-# 变性手术技术管理规范（征求意见稿）
-
-来源：<http://www.nhc.gov.cn/mohyzs/s3586/200906/41291.shtml> （已删除）
-
-来源：<http://news.xixik.com/content/6693299cda1cc92e/>
-
-存档：<https://web.archive.org/web/20230217175046/http://news.xixik.com/content/6693299cda1cc92e/>
-
 ---
+external: 
+   deleted_source: http://www.nhc.gov.cn/mohyzs/s3586/200906/41291.shtml
+   source: http://news.xixik.com/content/6693299cda1cc92e/
+   archive: https://web.archive.org/web/20230217175046/http://news.xixik.com/content/6693299cda1cc92e/
+---
+
+# 变性手术技术管理规范（征求意见稿）
 
 为规范变性手术技术临床应用，保证医疗质量和医疗安全，制定本规范。
 本规范为医疗机构及其医师开展变性手术的最低要求。

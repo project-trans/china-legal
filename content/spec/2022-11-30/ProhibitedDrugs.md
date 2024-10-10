@@ -1,10 +1,10 @@
-# 药品网络销售禁止清单（第一版）（2022 年 11 月制定）
-
-来源：<https://www.nmpa.gov.cn/xxgk/ggtg/qtggtg/20221130200847133.html>
-
-存档：<https://web.archive.org/web/20221130165512/https://www.nmpa.gov.cn/xxgk/ggtg/qtggtg/20221130200847133.html>
-
 ---
+external:
+   source: https://www.nmpa.gov.cn/xxgk/ggtg/qtggtg/20221130200847133.html
+   archive: https://web.archive.org/web/20221130165512/https://www.nmpa.gov.cn/xxgk/ggtg/qtggtg/20221130200847133.html
+---
+
+# 药品网络销售禁止清单（第一版）（2022 年 11 月制定）
 
 索引号：FGWJ-2022-275
 
