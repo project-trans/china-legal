@@ -9,7 +9,7 @@
     <span v-if="sourceList.length>0&&isASCII(sourceList[0].url)">&nbsp;</span>
     <span v-for="(item, index) in sourceList" :key="index">
       <NuxtLink :href="item.url"  class="underline">
-        <span v-if="item.isdel">{{ getDisplayDomain(item.url) }}</span>
+        <span v-if="item.isdel"><del>{{ getDisplayDomain(item.url) }}</del></span>
         <span v-else>{{ getDisplayDomain(item.url) }}</span>
       </NuxtLink>
       <!-- 如果当前不是最后一个元素，添加分隔符 -->
@@ -20,7 +20,7 @@
     <span v-if="archiveList.length>0&&isASCII(archiveList[0].url)">&nbsp;</span>
     <span v-for="(item, index) in archiveList" :key="index">
       <NuxtLink :href="item.url" class="underline">
-        <span v-if="item.isdel">{{ getDisplayDomain(item.url) }}</span>
+        <span v-if="item.isdel"><del>{{ getDisplayDomain(item.url) }}</del></span>
         <span v-else>{{ getDisplayDomain(item.url) }}</span>
       </NuxtLink>
       <!-- 如果当前不是最后一个元素，添加分隔符 -->
