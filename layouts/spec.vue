@@ -6,7 +6,7 @@
   </div>
   <div v-if="hasAnySource" class="max-w-4xl px-4 py-5 mt-5 m-auto sm:px-8 sm:shadow ring-1 ring-gray-200 dark:ring-gray-700 sm:rounded-lg">
     内容<span v-if="sourceList.length>0">来自于</span>
-    <span v-if="sourceList.length>0&&isASCII(sourceList[0])">&nbsp;</span>
+    <span v-if="sourceList.length>0&&isASCII(sourceList[0].url)">&nbsp;</span>
     <span v-for="(item, index) in sourceList" :key="index">
       <NuxtLink :href="item.url"  class="underline">
         <span v-if="item.isdel">{{ getDisplayDomain(item.url) }}</span>
@@ -17,7 +17,7 @@
     </span>
     <span v-if="sourceList.length>0&&archiveList.length>0">，</span>
     <span v-if="archiveList.length>0">存档于</span>
-    <span v-if="archiveList.length>0&&isASCII(archiveList[0])">&nbsp;</span>
+    <span v-if="archiveList.length>0&&isASCII(archiveList[0].url)">&nbsp;</span>
     <span v-for="(item, index) in archiveList" :key="index">
       <NuxtLink :href="item.url" class="underline">
         <span v-if="item.isdel">{{ getDisplayDomain(item.url) }}</span>
