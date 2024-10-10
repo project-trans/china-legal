@@ -52,5 +52,14 @@ export default defineNuxtConfig({
     baseURL: "/china-legal/", //如果需要部署到二级目录
   },
 
+  runtimeConfig: {
+    // Keys within public, will be also exposed to the client-side
+    public: {
+      mdc: {
+        useNuxtImage: false
+      }
+    }
+  },
+
   compatibilityDate: "2024-09-30",
 });
