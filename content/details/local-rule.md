@@ -4,6 +4,7 @@ navigation:
 external: 
   copyright: true
 ---
+# 性别变更相关地方性法规
 
 | 省市 | 文件名称 | 相关条款 | 注意事项 |
 | --- | --- | --- | --- |
@@ -19,8 +20,8 @@ external:
 | 江西省 | 《江西省户口居民身份证管理工作规定》 赣公字〔2022〕18号 |  |  |
 | 吉林省 | [《吉林省公安机关户口和居民身份证管理工作规范》](https://zh.wikisource.org/wiki/%E5%90%89%E6%9E%97%E7%9C%81%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E6%88%B7%E5%8F%A3%E5%92%8C%E5%B1%85%E6%B0%91%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%AE%A1%E7%90%86%E5%B7%A5%E4%BD%9C%E8%A7%84%E8%8C%83) | 第七十六条 |  |
 | 湖北省 | [《湖北省公安机关户政管理工作规范》](https://zh.wikisource.org/wiki/%E6%B9%96%E5%8C%97%E7%9C%81%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E6%88%B7%E6%94%BF%E7%AE%A1%E7%90%86%E5%B7%A5%E4%BD%9C%E8%A7%84%E8%8C%83) | 第九十八条 |  |
-| 广西壮族自治区 | 《广西壮族自治区户口居民身份证管理工作规范》 |  |  |
+| 广西壮族自治区 | [《广西壮族自治区户口居民身份证管理工作规范》](https://zh.wikisource.org/wiki/%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA%E5%85%AC%E5%AE%89%E5%8E%85%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%88%B7%E5%8F%A3%E5%B1%85%E6%B0%91%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%AE%A1%E7%90%86%E5%B7%A5%E4%BD%9C%E8%A7%84%E8%8C%83%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5) | 第八十二条 |  |
 | 内蒙古自治区 | [《内蒙古自治区公安机关户口、居民身份证管理工作规范》](https://zh.wikisource.org/wiki/%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E6%88%B7%E5%8F%A3%E3%80%81%E5%B1%85%E6%B0%91%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%AE%A1%E7%90%86%E5%B7%A5%E4%BD%9C%E8%A7%84%E8%8C%83) | 第一百二十三条 |  |
-| 新疆维吾尔自治区 | [《新疆维吾尔自治区户口居民身份证管理工作规定（试行）》（新公办规〔2022〕1号）](https://gat.xinjiang.gov.cn/gat/gawj/202301/138d99b8e9ee4320a32349192faa8689.shtml) |  |  |
+| 新疆维吾尔自治区 | [《新疆维吾尔自治区户口居民身份证管理工作规定（试行）》（新公办规〔2022〕1号）](https://gat.xinjiang.gov.cn/gat/gawj/202301/138d99b8e9ee4320a32349192faa8689.shtml) | 第一百三十三条 |  |
 | 哈尔滨市 | [哈尔滨市公安局户口居民身份证管理工作规范实施细则（试行）](https://zh.wikisource.org/wiki/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B8%82%E5%85%AC%E5%AE%89%E5%B1%80%E6%88%B7%E5%8F%A3%E5%B1%85%E6%B0%91%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%AE%A1%E7%90%86%E5%B7%A5%E4%BD%9C%E8%A7%84%E8%8C%83%E5%AE%9E%E6%96%BD%E7%BB%86%E5%88%99%EF%BC%88%E8%AF%95%E8%A1%8C%EF%BC%89) | 第一百二十一条 |  |
 | 伊春市 | [《关于印发〈全市户口和居民身份证管理工作规范〉的通知》](https://www.yc.gov.cn/ycsrmzf/c102114/202302/290718.shtml) | 第九十八条 |  |
