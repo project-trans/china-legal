@@ -43,11 +43,12 @@ export default defineNuxtConfig({
     },
   },
 
-  // nitro: {
-  //   prerender: {
-  //     crawlLinks: true,
-  //   },
-  // },
+  nitro: {
+    prerender: {
+      crawlLinks: true,
+      routes: ["/details/local-rule"]
+    },
+  },
   app: {
     baseURL: "/china-legal/", //如果需要部署到二级目录
   },
