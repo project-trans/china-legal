@@ -23,6 +23,7 @@ external:
 | 山东省 | [《山东省公安厅关于进一步深化户籍管理 “1+6”综合服务模式的通知》](http://www.shandong.gov.cn/jpaas-jpolicy-web-server/front/info/detail?iid=7bf18cbeaf1a493aba28b95a1175d94d) |  |  |
 | 山西省 | [《山西省公安机关户籍管理工作规范》](https://gatgw.shanxi.gov.cn/xxgk/zfxxgk2023/xxgkml/zcwj/202401/t20240103_9465409.shtml) | 第七十三条 |  |
 | 四川省 | [《四川省户政管理工作规范》（试行）](https://bwc.pzhu.edu.cn/info/1042/1154.htm) | 第五十五条 |  |
+| 贵州省 | [《贵州省公安机关户口登记管理暂行规定》](https://gat.guizhou.gov.cn/zwgk/gfxwjk/gfxwjsjk/202107/t20210713_76655042.html) | 第一百零一条、第一百零二条 | 未明确需提交何种材料 |
 | 广西壮族自治区 | [《广西壮族自治区户口居民身份证管理工作规范》](https://zh.wikisource.org/wiki/%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA%E5%85%AC%E5%AE%89%E5%8E%85%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91%E3%80%8A%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%88%B7%E5%8F%A3%E5%B1%85%E6%B0%91%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%AE%A1%E7%90%86%E5%B7%A5%E4%BD%9C%E8%A7%84%E8%8C%83%E3%80%8B%E7%9A%84%E9%80%9A%E7%9F%A5) | 第八十二条 |  |
 | 内蒙古自治区 | [《内蒙古自治区公安机关户口、居民身份证管理工作规范》](https://zh.wikisource.org/wiki/%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E6%88%B7%E5%8F%A3%E3%80%81%E5%B1%85%E6%B0%91%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%AE%A1%E7%90%86%E5%B7%A5%E4%BD%9C%E8%A7%84%E8%8C%83) | 第一百二十三条 |  |
 | 新疆维吾尔自治区 | [《新疆维吾尔自治区户口居民身份证管理工作规定（试行）》（新公办规〔2022〕1号）](https://gat.xinjiang.gov.cn/gat/gawj/202301/138d99b8e9ee4320a32349192faa8689.shtml) | 第一百三十三条 |  |
