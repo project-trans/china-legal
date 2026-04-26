@@ -1,7 +1,6 @@
 ---
 external:
    source: http://www.nhc.gov.cn/yzygj/s3585/201702/e1b8e0c9b7c841d49c1895ecd475d957.shtml
-   archive: https://archive.md/20210603165527/http://www.nhc.gov.cn/yzygj/s3585/201702/e1b8e0c9b7c841d49c1895ecd475d957.shtml
 ---
 
 # 性别重置技术临床应用质量控制指标（2017 年版）

@@ -2,11 +2,7 @@
 
 来源：<http://www.nhc.gov.cn/fzs/s3576/201808/23955032bab34afa9f101d4dbee10f7a.shtml>
 
-存档：<https://archive.md/20230217182148/http://www.nhc.gov.cn/fzs/s3576/201808/23955032bab34afa9f101d4dbee10f7a.shtml>
-
 来源：<http://www.hunan.gov.cn/xxgk/wjk/zcfgk/202007/t20200730_d37889ea-9781-4599-b11c-f25b939c9e13.html>
-
-存档：<https://archive.md/20230217183816/http://www.hunan.gov.cn/xxgk/wjk/zcfgk/202007/t20200730_d37889ea-9781-4599-b11c-f25b939c9e13.html>
 
 ## 第一章 总则
 

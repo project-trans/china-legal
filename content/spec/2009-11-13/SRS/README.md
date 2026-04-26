@@ -3,7 +3,6 @@ external:
    wikisource: https://zh.wikisource.org/wiki/公安部三局关于公民手术变性后变更户口登记性别项目有关问题的批复
    source: http://www.nhc.gov.cn/wjw/gfxwj/201304/5a310ec69d264d4a890949d0b2fbcaf7.shtml
    archive: 
-      - https://archive.md/20230217175203/http://www.nhc.gov.cn/wjw/gfxwj/201304/5a310ec69d264d4a890949d0b2fbcaf7.shtml
       - https://web.archive.org/web/20230217175420/http://www.nhc.gov.cn/cmsresources/mohyzs/cmsrsdocument/doc6592.doc
 ---
 

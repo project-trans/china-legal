@@ -1,7 +1,6 @@
 ---
 external: 
    source: http://www.gov.cn/gzdt/2007-08/24/content_726068.htm
-   archive: https://archive.md/20230217141655/http://www.gov.cn/gzdt/2007-08/24/content_726068.htm
 ---
 
 # 广电总局发通知禁止播出群众参与的整容变性节目
