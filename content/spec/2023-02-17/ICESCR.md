@@ -1,12 +1,12 @@
-# 经社文权利委员会完成对中国的第三次履约报告审议
-
-来源：<https://news.un.org/zh/story/2023/02/1115262>
-
-存档：<https://web.archive.org/web/20230224145954/https://news.un.org/zh/story/2023/02/1115262>
-
-来源：[E/C.12/CHN/3](https://undocs.org/ch/E/C.12/CHN/3)
-
 ---
+external:
+   source: 
+    - https://news.un.org/zh/story/2023/02/1115262
+    - https://undocs.org/ch/E/C.12/CHN/3
+   archive: https://web.archive.org/web/20230224145954/https://news.un.org/zh/story/2023/02/1115262
+---
+
+# 经社文权利委员会完成对中国的第三次履约报告审议
 
 ## 委员会：发展应以人权为基础
 

@@ -1,10 +1,10 @@
-# 关于公民实施变性手术后变更户口登记性别项目有关问题的通知
-
-来源：<https://hnga.henan.gov.cn/2021/11-19/2350238.html>
-
-存档：<https://web.archive.org/web/20220516125647/https://hnga.henan.gov.cn/2021/11-19/2350238.html>
-
 ---
+external: 
+   source: https://hnga.henan.gov.cn/2021/11-19/2350238.html
+   archive: https://web.archive.org/web/20220516125647/https://hnga.henan.gov.cn/2021/11-19/2350238.html
+---
+
+# 关于公民实施变性手术后变更户口登记性别项目有关问题的通知
 
 各省辖市公安局、卫生局：
 

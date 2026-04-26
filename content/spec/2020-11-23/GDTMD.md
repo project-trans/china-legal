@@ -1,14 +1,14 @@
-# 精神障碍诊疗规范（2020 年版）
-
-来源：<http://www.nhc.gov.cn/yzygj/s7653p/202012/a1c4397dbf504e1393b3d2f6c263d782.shtml>
-
-存档：<https://archive.md/20230218030626/http://www.nhc.gov.cn/yzygj/s7653p/202012/a1c4397dbf504e1393b3d2f6c263d782.shtml>
-
-来源：<http://www.nhc.gov.cn/yzygj/s7653p/202012/a1c4397dbf504e1393b3d2f6c263d782/files/9944cdd142574ea59c541d552fe345a9.pdf>
-
-存档：<https://web.archive.org/web/20230218032355/http://www.nhc.gov.cn/yzygj/s7653p/202012/a1c4397dbf504e1393b3d2f6c263d782/files/9944cdd142574ea59c541d552fe345a9.pdf>
-
 ---
+external:
+   source: 
+    - http://www.nhc.gov.cn/yzygj/s7653p/202012/a1c4397dbf504e1393b3d2f6c263d782.shtml
+    - http://www.nhc.gov.cn/yzygj/s7653p/202012/a1c4397dbf504e1393b3d2f6c263d782/files/9944cdd142574ea59c541d552fe345a9.pdf
+   archive: 
+    - https://archive.md/20230218030626/http://www.nhc.gov.cn/yzygj/s7653p/202012/a1c4397dbf504e1393b3d2f6c263d782.shtml
+    - https://web.archive.org/web/20230218032355/http://www.nhc.gov.cn/yzygj/s7653p/202012/a1c4397dbf504e1393b3d2f6c263d782/files/9944cdd142574ea59c541d552fe345a9.pdf
+---
+
+# 精神障碍诊疗规范（2020 年版）
 
 ## 第九节 性身份障碍
 

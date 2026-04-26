@@ -1,10 +1,10 @@
-# 性别重置技术临床应用管理规范（2022 年版）
-
-来源：<http://www.nhc.gov.cn/yzygj/s7657/202204/2efe9f8ca13f499c8e1f70844fe96144.shtml>
-
-存档：<https://archive.md/20220720230803/http://www.nhc.gov.cn/yzygj/s7657/202204/2efe9f8ca13f499c8e1f70844fe96144.shtml>
-
 ---
+external:
+   source: http://www.nhc.gov.cn/yzygj/s7657/202204/2efe9f8ca13f499c8e1f70844fe96144.shtml
+   archive: https://archive.md/20220720230803/http://www.nhc.gov.cn/yzygj/s7657/202204/2efe9f8ca13f499c8e1f70844fe96144.shtml
+---
+
+# 性别重置技术临床应用管理规范（2022 年版）
 
 为规范性别重置技术临床应用，保证医疗质量和医疗安全，制定本规范。
 本规范是医疗机构及其医务人员开展性别重置技术的最低要求。

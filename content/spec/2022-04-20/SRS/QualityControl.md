@@ -1,8 +1,10 @@
+---
+external:
+   source: http://www.nhc.gov.cn/yzygj/s7657/202204/2efe9f8ca13f499c8e1f70844fe96144.shtml
+   archive: https://archive.md/20220720230803/http://www.nhc.gov.cn/yzygj/s7657/202204/2efe9f8ca13f499c8e1f70844fe96144.shtml
+---
+
 # 性别重置技术临床应用质量控制指标（2022 年版）
-
-来源：<http://www.nhc.gov.cn/yzygj/s7657/202204/2efe9f8ca13f499c8e1f70844fe96144.shtml>
-
-存档：<https://archive.md/20220720230803/http://www.nhc.gov.cn/yzygj/s7657/202204/2efe9f8ca13f499c8e1f70844fe96144.shtml>
 
 ## 术中输血率
 

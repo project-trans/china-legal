@@ -4,7 +4,7 @@ const { cover } = useAppConfig()
 
 <template>
   <div class="sm:pt-6 sm:pb-10 pb-5">
-    <Html lang="zh" />
+    <Html lang="zh-Hans-CN" />
     <!-- <Meta property="og:image" :content="cover"/> -->
     <Link rel="shortcut icon" href="/china-legal/favicon.ico"/>
     <Meta name="twitter:card" content="summary_large_image" />

@@ -6,7 +6,6 @@ export default defineNuxtModule({
     nuxt.options.nitro.externals = nuxt.options.nitro.externals || {}
     nuxt.options.nitro.externals.inline = nuxt.options.nitro.externals.inline || []
     nuxt.options.nitro.externals.inline.push(resolve('./modules/nuxt-content-transformers'))
-    // @ts-expect-error
     nuxt.hook('content:context', (contentContext) => {
       //contentContext.transformers=[];
       contentContext.transformers.push(resolve('./modules/nuxt-content-transformers/markdown.ts'))

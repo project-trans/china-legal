@@ -1,10 +1,10 @@
-# 中华人民共和国精神卫生法（草案）
-
-来源：<http://www.npc.gov.cn/npc/xinwen/lfgz/flca/2011-10/29/content_1678355.htm> （已删除）
-
-存档：<https://web.archive.org/web/20120927232615/http://www.npc.gov.cn/npc/xinwen/lfgz/flca/2011-10/29/content_1678355.htm>
-
 ---
+external: 
+   deleted_source: http://www.npc.gov.cn/npc/xinwen/lfgz/flca/2011-10/29/content_1678355.htm
+   archive: https://web.archive.org/web/20120927232615/http://www.npc.gov.cn/npc/xinwen/lfgz/flca/2011-10/29/content_1678355.htm
+---
+
+# 中华人民共和国精神卫生法（草案）
 
 ## 第一章 总则
 

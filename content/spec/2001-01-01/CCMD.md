@@ -1,10 +1,10 @@
-# 中国精神障碍分类及诊断标准（第三版）
-
-来源：<http://www.jhak.com/uploads/soft/201410/2_05151719.pdf>（具体发布时间未知）
-
-存档：<https://web.archive.org/web/20210225161220/http://www.jhak.com/uploads/soft/201410/2_05151719.pdf>
-
 ---
+external: 
+   source: http://www.jhak.com/uploads/soft/201410/2_05151719.pdf
+   archive: https://web.archive.org/web/20210225161220/http://www.jhak.com/uploads/soft/201410/2_05151719.pdf
+---
+
+# 中国精神障碍分类及诊断标准（第三版）
 
 ## 62 性心理障碍（性变态）\[F64 性身份障碍；F65 性偏好障碍；F66 与性发育和性指向有关的心理和行为障碍]
 
