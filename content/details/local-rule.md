@@ -33,3 +33,4 @@ external:
 | 伊春市 | [《关于印发〈全市户口和居民身份证管理工作规范〉的通知》](https://www.yc.gov.cn/ycsrmzf/c102114/202302/290718.shtml) | 第九十八条 | 在校全日制大中专以上学历学生无法修改姓名 |
 | 中山市 | [《中山市公安局关于印发中山市户口登记管理实施细则的通知》](https://gaj.zs.gov.cn/gkmlpt/content/2/2539/post_2539389.html#2625) | 第七十五条 |  |
 | 淮南市 | [《淮南市公安局关于印发〈淮南市户政业务办理实施细则〉的通知》](https://www.huainan.gov.cn/group1/M00/15/EE/rB406mR-6r-AAqWnAAp_SMHOoIk978.pdf) | 第一百三十三条 |  |
+| 连云港市 | [《连云港市常住户口登记管理规定实施细则》](http://gaj.lyg.gov.cn/sgaj/hjgl/content/ded501a6-9703-49ad-9d3c-a6da0771f06b.html) | 第一百四十六条 | 公证书公证内容须包括医院变性手术、以男性或女性身份生活、医院级别等 |
