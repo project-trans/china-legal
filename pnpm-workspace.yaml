@@ -1,3 +1,5 @@
 allowBuilds:
   esbuild: true
   vue-demi: true
+shamefullyHoist: true
+strictPeerDependencies: true
